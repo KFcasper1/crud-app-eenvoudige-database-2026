@@ -1,5 +1,6 @@
 <?php
 // Include database and bootstrap
+// test
 include 'header.php';
 include 'db.php';
 // collect the database
