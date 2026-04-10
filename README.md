@@ -22,9 +22,9 @@ users can use this to
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
     address VARCHAR(255),
-    city VARCHAR(100)
+    city VARCHAR(100))
 
-7. Open your preferred browser of choice and go to "http://locahost/crud-app"
+7. Open your preferred browser of choice and go to "http://localhost/crud-app"
 
 ## technologies used
 -PHP
